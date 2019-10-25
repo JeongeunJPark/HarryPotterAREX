@@ -93,31 +93,31 @@
     <None Include="Assets\PlayServicesResolver\Editor\play-services-resolver_v1.2.105.0.txt" />
     <None Include="Assets\GoogleARCore\Editor\ARCoreiOSDependencies.template" />
     <Reference Include="Unity.ProBuilder">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/2018.4.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -363,43 +363,43 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenUpgradeManager">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/Demigiant/DOTween/Editor/DOTweenUpgradeManager.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/Demigiant/DOTween/Editor/DOTweenUpgradeManager.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/GoogleARCore/SDK/Plugins/Google.Protobuf.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/GoogleARCore/SDK/Plugins/Google.Protobuf.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.105.0">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.105.0.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.105.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.105.0">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.105.0.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.105.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.105.0">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.105.0.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.105.0.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>D:/Mentor/AddOnPureCopy/AddOnPure/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>D:/SOURCETREE/SourcetreeFirstCommit/AddOnPure/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/2018.4.4f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
